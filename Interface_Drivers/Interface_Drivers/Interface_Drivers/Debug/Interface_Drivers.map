@@ -1,0 +1,1021 @@
+Archive member included to satisfy reference by file (symbol)
+
+f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+                              LCD.o (__subsf3)
+f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+                              f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o) (__addsf3x)
+f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+                              GPT.o (__divsf3)
+f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+                              f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o) (__divsf3x)
+f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                              GPT.o (__fixunssfsi)
+f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+                              GPT.o (__floatunsisf)
+f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                              f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_inf)
+f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                              f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_nan)
+f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                              f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_pscA)
+f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                              f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_pscB)
+f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                              f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o) (__fp_round)
+f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                              f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_split3)
+f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                              f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_zero)
+f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                              ICU.o (__mulsf3)
+f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                              f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o) (__mulsf3x)
+f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulsi3.o)
+                              ICU.o (__mulsi3)
+f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+                              LCD.o (__divmodhi4)
+f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+                              LCD.o (__divmodsi4)
+f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+                              f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o) (__negsi2)
+f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+                              f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/crtatmega32.o (exit)
+f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+                              GPT.o (__tablejump2__)
+f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+                              GPT.o (__do_copy_data)
+f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+                              LCD.o (__do_clear_bss)
+f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+                              GPT.o (__muluhisi3)
+f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashrdi3.o)
+                              LCD.o (__lshrdi3)
+f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+                              f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o) (__udivmodhi4)
+f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+                              f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o) (__udivmodsi4)
+f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+                              f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o) (__umulhisi3)
+
+Discarded input sections
+
+ .data          0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/crtatmega32.o
+ .bss           0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/crtatmega32.o
+ .text          0x00000000        0x0 DIO.o
+ .data          0x00000000        0x0 DIO.o
+ .bss           0x00000000        0x0 DIO.o
+ .text.DIO_TogglePin
+                0x00000000       0x24 DIO.o
+ .text.DIO_ReadPin
+                0x00000000       0x20 DIO.o
+ .text.DIO_ReadPort
+                0x00000000        0xc DIO.o
+ .text.DIO_SetHighHalfPortDirection
+                0x00000000       0x2a DIO.o
+ .text.DIO_SetLowHalfPortDirection
+                0x00000000       0x2a DIO.o
+ .text.DIO_WriteHighHalfPort
+                0x00000000       0x20 DIO.o
+ .text.DIO_WriteLowHalfPort
+                0x00000000       0x20 DIO.o
+ .text.DIO_ReadHighHalfPort
+                0x00000000       0x10 DIO.o
+ .text.DIO_ReadLowHalfPort
+                0x00000000        0xe DIO.o
+ .text          0x00000000        0x0 GPT.o
+ .data          0x00000000        0x0 GPT.o
+ .bss           0x00000000        0x0 GPT.o
+ .text.GPT_InitTimer0
+                0x00000000       0x6a GPT.o
+ .text.GPT_InitTimer1
+                0x00000000       0x78 GPT.o
+ .text.GPT_InitTimer2
+                0x00000000       0x50 GPT.o
+ .text.GPT_Init
+                0x00000000       0x44 GPT.o
+ .text.GPT_Delay_us
+                0x00000000      0x254 GPT.o
+ .progmem.gcc_sw_table.GPT_Delay_us
+                0x00000000        0xe GPT.o
+ .text.GPT_Delay_ms
+                0x00000000      0x23c GPT.o
+ .progmem.gcc_sw_table.GPT_Delay_ms
+                0x00000000        0xe GPT.o
+ .text.GPT_GetTimerStatus
+                0x00000000       0x70 GPT.o
+ .rodata.gaStrGPT_Config
+                0x00000000        0x4 GPT.o
+ .debug_info    0x00000000      0x3bf GPT.o
+ .debug_abbrev  0x00000000      0x166 GPT.o
+ .debug_loc     0x00000000      0x60b GPT.o
+ .debug_aranges
+                0x00000000       0x50 GPT.o
+ .debug_ranges  0x00000000       0x40 GPT.o
+ .debug_line    0x00000000      0x47e GPT.o
+ .debug_str     0x00000000      0x43d GPT.o
+ .comment       0x00000000       0x31 GPT.o
+ .debug_frame   0x00000000       0xac GPT.o
+ .text          0x00000000        0x0 ICU.o
+ .data          0x00000000        0x0 ICU.o
+ .bss           0x00000000        0x0 ICU.o
+ .text          0x00000000        0x0 LCD.o
+ .data          0x00000000        0x0 LCD.o
+ .bss           0x00000000        0x0 LCD.o
+ .text.LCD_SendInstruction
+                0x00000000       0x92 LCD.o
+ .text.LCD_Init
+                0x00000000       0x40 LCD.o
+ .text.LCD_SelectRowColumn
+                0x00000000       0x30 LCD.o
+ .text.LCD_DisplayCharacter
+                0x00000000       0x92 LCD.o
+ .text.LCD_DisplayString
+                0x00000000       0x1a LCD.o
+ .text.LCD_DisplayInteger
+                0x00000000       0x86 LCD.o
+ .text.LCD_DisplayFloatingPointNumber
+                0x00000000       0x98 LCD.o
+ .text.LCD_CreateSpecialCharacter
+                0x00000000       0x36 LCD.o
+ .text          0x00000000        0x0 main.o
+ .data          0x00000000        0x0 main.o
+ .bss           0x00000000        0x0 main.o
+ .text          0x00000000        0x0 PWM.o
+ .data          0x00000000        0x0 PWM.o
+ .bss           0x00000000        0x0 PWM.o
+ .text.PWM_SetDuty
+                0x00000000      0x210 PWM.o
+ .data.gac_Line_Patterns
+                0x00000000       0x38 PWM.o
+ .text          0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .data          0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .bss           0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .text          0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .data          0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .bss           0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .text          0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .data          0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .bss           0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .text          0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .data          0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .bss           0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .text          0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .data          0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .bss           0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .text          0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .data          0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .bss           0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .text          0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .data          0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .bss           0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .text          0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .data          0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .bss           0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .text          0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .data          0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .bss           0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .text          0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .data          0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .bss           0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .text          0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .data          0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .bss           0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .text          0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .data          0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .bss           0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .text          0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .data          0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .bss           0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .text          0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .data          0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .bss           0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .text          0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .data          0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .bss           0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .text          0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulsi3.o)
+ .data          0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulsi3.o)
+ .bss           0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulsi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulsi3.o)
+ .text.libgcc   0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulsi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulsi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulsi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulsi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulsi3.o)
+ .text          0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .data          0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .bss           0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.div
+                0x00000000       0x28 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc   0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .text          0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .data          0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .bss           0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc   0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .text          0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .data          0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .bss           0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.mul
+                0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc   0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .text          0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .data          0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .bss           0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.mul
+                0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.div
+                0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text          0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .data          0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .data          0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .bss           0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc   0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .text          0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashrdi3.o)
+ .data          0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashrdi3.o)
+ .bss           0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashrdi3.o)
+ .text.libgcc.mul
+                0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashrdi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashrdi3.o)
+ .text.libgcc   0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashrdi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashrdi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashrdi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashrdi3.o)
+ .text          0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .data          0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .bss           0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.div
+                0x00000000       0x28 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc   0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text          0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .data          0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .bss           0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text          0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .data          0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .bss           0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc   0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00008000         xr
+data             0x00800060         0x00000800         rw !x
+eeprom           0x00810000         0x00000400         rw !x
+fuse             0x00820000         0x00000002         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/crtatmega32.o
+LOAD DIO.o
+LOAD GPT.o
+LOAD ICU.o
+LOAD LCD.o
+LOAD main.o
+LOAD PWM.o
+START GROUP
+LOAD f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
+END GROUP
+START GROUP
+LOAD f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a
+LOAD f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
+LOAD f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a
+LOAD f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libatmega32.a
+END GROUP
+                0x00000000                __TEXT_REGION_ORIGIN__ = DEFINED (__TEXT_REGION_ORIGIN__)?__TEXT_REGION_ORIGIN__:0x0
+                [0x00800060]                __DATA_REGION_ORIGIN__ = DEFINED (__DATA_REGION_ORIGIN__)?__DATA_REGION_ORIGIN__:0x800060
+                [0x00008000]                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x20000
+                [0x00000800]                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                [0x00000400]                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x00000002]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x00000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x00000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x00000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x1916
+ *(.vectors)
+ .vectors       0x00000000       0x54 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/crtatmega32.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+ .progmem.gcc_sw_table.GLCD_DisplayCharacter
+                0x00000054       0xb6 LCD.o
+                0x0000010a                . = ALIGN (0x2)
+                0x0000010a                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x0000010a        0x0 linker stubs
+ *(.trampolines*)
+                0x0000010a                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ *(.progmem*)
+                0x0000010a                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x0000010a                __ctors_start = .
+ *(.ctors)
+                0x0000010a                __ctors_end = .
+                0x0000010a                __dtors_start = .
+ *(.dtors)
+                0x0000010a                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x0000010a        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/crtatmega32.o
+                0x0000010a                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x0000010a        0xc f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/crtatmega32.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000116       0x16 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+                0x00000116                __do_copy_data
+ .init4         0x0000012c       0x10 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+                0x0000012c                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x0000013c        0x8 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/crtatmega32.o
+ *(.init9)
+ *(.text)
+ .text          0x00000144        0x4 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/crtatmega32.o
+                0x00000144                __vector_1
+                0x00000144                __vector_12
+                0x00000144                __bad_interrupt
+                0x00000144                __vector_6
+                0x00000144                __vector_3
+                0x00000144                __vector_11
+                0x00000144                __vector_13
+                0x00000144                __vector_17
+                0x00000144                __vector_19
+                0x00000144                __vector_7
+                0x00000144                __vector_5
+                0x00000144                __vector_4
+                0x00000144                __vector_9
+                0x00000144                __vector_2
+                0x00000144                __vector_15
+                0x00000144                __vector_8
+                0x00000144                __vector_14
+                0x00000144                __vector_10
+                0x00000144                __vector_16
+                0x00000144                __vector_18
+                0x00000144                __vector_20
+                0x00000148                . = ALIGN (0x2)
+ *(.text.*)
+ .text.DIO_ObtainRegister
+                0x00000148       0xa6 DIO.o
+ .text.DIO_SetPinDirection
+                0x000001ee       0x4e DIO.o
+                0x000001ee                DIO_SetPinDirection
+ .text.DIO_WritePin
+                0x0000023c       0x4e DIO.o
+                0x0000023c                DIO_WritePin
+ .text.DIO_SetPortDirection
+                0x0000028a       0x24 DIO.o
+                0x0000028a                DIO_SetPortDirection
+ .text.DIO_WritePort
+                0x000002ae       0x12 DIO.o
+                0x000002ae                DIO_WritePort
+ .text.ICU_SetTriggerEdge
+                0x000002c0       0x1a ICU.o
+                0x000002c0                ICU_SetTriggerEdge
+ .text.ICU_ClearTimerValue
+                0x000002da        0xa ICU.o
+                0x000002da                ICU_ClearTimerValue
+ .text.ICU_GetInputCaptureValue
+                0x000002e4       0x10 ICU.o
+                0x000002e4                ICU_GetInputCaptureValue
+ .text.ICU_GetStatus
+                0x000002f4       0x1c ICU.o
+                0x000002f4                ICU_GetStatus
+ .text.ICU_InitTimer1
+                0x00000310       0x3e ICU.o
+                0x00000310                ICU_InitTimer1
+ .text.ICU_Init
+                0x0000034e        0xe ICU.o
+                0x0000034e                ICU_Init
+ .text.ICU_GetDutyCycle_Timer1
+                0x0000035c      0x14e ICU.o
+                0x0000035c                ICU_GetDutyCycle_Timer1
+ .text.ICU_GetDutyCycle
+                0x000004aa        0xe ICU.o
+                0x000004aa                ICU_GetDutyCycle
+ .text.GLCD_SelectPage
+                0x000004b8       0x68 LCD.o
+                0x000004b8                GLCD_SelectPage
+ .text.GLCD_SendInstruction
+                0x00000520       0x40 LCD.o
+                0x00000520                GLCD_SendInstruction
+ .text.GLCD_Init
+                0x00000560       0x86 LCD.o
+                0x00000560                GLCD_Init
+ .text.GLCD_SendData
+                0x000005e6       0x40 LCD.o
+                0x000005e6                GLCD_SendData
+ .text.GLCD_Reset
+                0x00000626       0x1e LCD.o
+                0x00000626                GLCD_Reset
+ .text.GLCD_DisplaySpecialPattern
+                0x00000644       0xa6 LCD.o
+                0x00000644                GLCD_DisplaySpecialPattern
+ .text.GLCD_DisplayCharacter
+                0x000006ea      0x330 LCD.o
+                0x000006ea                GLCD_DisplayCharacter
+ .text.GLCD_DisplayString
+                0x00000a1a       0x1a LCD.o
+                0x00000a1a                GLCD_DisplayString
+ .text.GLCD_DisplayInteger
+                0x00000a34       0xaa LCD.o
+                0x00000a34                GLCD_DisplayInteger
+ .text.GLCD_DisplayFloatingPoint
+                0x00000ade       0x9a LCD.o
+                0x00000ade                GLCD_DisplayFloatingPoint
+ .text.GLCD_GoToLine
+                0x00000b78       0x28 LCD.o
+                0x00000b78                GLCD_GoToLine
+ .text.GLCD_ClearDisplay
+                0x00000ba0       0x4c LCD.o
+                0x00000ba0                GLCD_ClearDisplay
+ .text.main     0x00000bec       0x62 main.o
+                0x00000bec                main
+ .text.PWM_InitTimer0
+                0x00000c4e       0xcc PWM.o
+                0x00000c4e                PWM_InitTimer0
+ .text.PWM_InitTimer1
+                0x00000d1a      0x242 PWM.o
+                0x00000d1a                PWM_InitTimer1
+ .text.PWM_InitTimer2
+                0x00000f5c       0xaa PWM.o
+                0x00000f5c                PWM_InitTimer2
+ .text.PWM_Init
+                0x00001006       0x2c PWM.o
+                0x00001006                PWM_Init
+ .text.PWMDrawer_Init
+                0x00001032       0x1a PWM.o
+                0x00001032                PWMDrawer_Init
+ .text.PWMDrawer_MeasureSignal
+                0x0000104c       0xe2 PWM.o
+                0x0000104c                PWMDrawer_MeasureSignal
+ .text.PWMDrawer_DrawSignal
+                0x0000112e      0x2b4 PWM.o
+                0x0000112e                PWMDrawer_DrawSignal
+ .text.avr-libc.fplib
+                0x000013e2        0xe f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+                0x000013e2                __subsf3
+                0x000013e4                __addsf3
+ .text.avr-libc.fplib
+                0x000013f0       0xcc f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+                0x00001412                __addsf3x
+ .text.avr-libc.fplib
+                0x000014bc        0x8 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+                0x000014bc                __divsf3
+ .text.avr-libc.fplib
+                0x000014c4       0xdc f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+                0x000014e4                __divsf3x
+                0x000014ea                __divsf3_pse
+ .text.avr-libc.fplib
+                0x000015a0       0x5e f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                0x000015a0                __fixunssfsi
+ .text.avr-libc.fplib
+                0x000015fe       0x7a f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+                0x000015fe                __floatunsisf
+                0x00001602                __floatsisf
+ .text.avr-libc.fplib
+                0x00001678        0xc f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                0x00001678                __fp_inf
+ .text.avr-libc.fplib
+                0x00001684        0x6 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                0x00001684                __fp_nan
+ .text.avr-libc.fplib
+                0x0000168a        0xe f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                0x0000168a                __fp_pscA
+ .text.avr-libc.fplib
+                0x00001698        0xe f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                0x00001698                __fp_pscB
+ .text.avr-libc.fplib
+                0x000016a6       0x22 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                0x000016a6                __fp_round
+ .text.avr-libc.fplib
+                0x000016c8       0x44 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                0x000016c8                __fp_split3
+                0x000016d8                __fp_splitA
+ .text.avr-libc.fplib
+                0x0000170c        0xe f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                0x0000170c                __fp_zero
+                0x0000170e                __fp_szero
+ .text.avr-libc.fplib
+                0x0000171a        0x8 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                0x0000171a                __mulsf3
+ .text.avr-libc.fplib
+                0x00001722       0xd2 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                0x00001740                __mulsf3x
+                0x00001746                __mulsf3_pse
+ .text.libgcc.mul
+                0x000017f4       0x20 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulsi3.o)
+                0x000017f4                __mulsi3
+ .text.libgcc.div
+                0x00001814       0x2e f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+                0x00001814                __divmodsi4
+ .text.libgcc.div
+                0x00001842       0x10 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+                0x00001842                __negsi2
+ .text.libgcc   0x00001852        0xc f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+                0x00001852                __tablejump2__
+ .text.libgcc.mul
+                0x0000185e       0x16 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+                0x0000185e                __muluhisi3
+ .text.libgcc.builtins
+                0x00001874       0x3c f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashrdi3.o)
+                0x00001874                __ashrdi3
+                0x00001878                __lshrdi3
+ .text.libgcc.div
+                0x000018b0       0x44 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+                0x000018b0                __udivmodsi4
+ .text.libgcc.mul
+                0x000018f4       0x1e f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+                0x000018f4                __umulhisi3
+                0x00001912                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00001912        0x0 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+                0x00001912                _exit
+                0x00001912                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00001912        0x4 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00001916                _etext = .
+
+.data           0x00800060       0x4a load address 0x00001916
+                0x00800060                PROVIDE (__data_start, .)
+ *(.data)
+ *(.data*)
+ *(.gnu.linkonce.d*)
+ *(.rodata)
+ .rodata        0x00800060       0x37 PWM.o
+ *(.rodata*)
+ .rodata.gStrICU_Config
+                0x00800097        0x4 ICU.o
+                0x00800097                gStrICU_Config
+ .rodata.str1.1
+                0x0080009b        0x5 PWM.o
+                                  0x6 (size before relaxing)
+ .rodata.gaStrPWM_Config
+                0x008000a0        0x9 PWM.o
+                0x008000a0                gaStrPWM_Config
+ *(.gnu.linkonce.r*)
+                0x008000aa                . = ALIGN (0x2)
+ *fill*         0x008000a9        0x1 
+                0x008000aa                _edata = .
+                0x008000aa                PROVIDE (__data_end, .)
+
+.bss            0x008000aa        0x5
+                0x008000aa                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.gu8_Curr_Page
+                0x008000aa        0x1 LCD.o
+                0x008000aa                gu8_Curr_Page
+ .bss.gu8_Curr_Y_Address
+                0x008000ab        0x1 LCD.o
+                0x008000ab                gu8_Curr_Y_Address
+ .bss.gu8_Curr_X_Address
+                0x008000ac        0x1 LCD.o
+                0x008000ac                gu8_Curr_X_Address
+ .bss.gu16_PWM_TimerTopValue
+                0x008000ad        0x2 PWM.o
+                0x008000ad                gu16_PWM_TimerTopValue
+ *(COMMON)
+                0x008000af                PROVIDE (__bss_end, .)
+                0x00001916                __data_load_start = LOADADDR (.data)
+                0x00001960                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x008000af        0x0
+                [!provide]                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                PROVIDE (__noinit_end, .)
+                0x008000af                _end = .
+                [!provide]                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x30
+ *(.comment)
+ .comment       0x00000000       0x30 DIO.o
+                                 0x31 (size before relaxing)
+ .comment       0x00000030       0x31 ICU.o
+ .comment       0x00000030       0x31 LCD.o
+ .comment       0x00000030       0x31 main.o
+ .comment       0x00000030       0x31 PWM.o
+
+.note.gnu.avr.deviceinfo
+                0x00000000       0x3c
+ .note.gnu.avr.deviceinfo
+                0x00000000       0x3c f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/crtatmega32.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x210
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x88 DIO.o
+ .debug_aranges
+                0x00000088       0x58 ICU.o
+ .debug_aranges
+                0x000000e0       0xb8 LCD.o
+ .debug_aranges
+                0x00000198       0x20 main.o
+ .debug_aranges
+                0x000001b8       0x58 PWM.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x3022
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x4e6 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/crtatmega32.o
+ .debug_info    0x000004e6      0x6c5 DIO.o
+ .debug_info    0x00000bab      0x4d4 ICU.o
+ .debug_info    0x0000107f     0x14fd LCD.o
+ .debug_info    0x0000257c      0x216 main.o
+ .debug_info    0x00002792      0x890 PWM.o
+
+.debug_abbrev   0x00000000      0xc39
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x4a3 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/crtatmega32.o
+ .debug_abbrev  0x000004a3      0x13e DIO.o
+ .debug_abbrev  0x000005e1      0x124 ICU.o
+ .debug_abbrev  0x00000705      0x265 LCD.o
+ .debug_abbrev  0x0000096a      0x144 main.o
+ .debug_abbrev  0x00000aae      0x18b PWM.o
+
+.debug_line     0x00000000     0x1344
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000       0x1a f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/crtatmega32.o
+ .debug_line    0x0000001a      0x2e1 DIO.o
+ .debug_line    0x000002fb      0x1f9 ICU.o
+ .debug_line    0x000004f4      0x8f7 LCD.o
+ .debug_line    0x00000deb      0x15c main.o
+ .debug_line    0x00000f47      0x3fd PWM.o
+
+.debug_frame    0x00000000      0x660
+ *(.debug_frame)
+ .debug_frame   0x00000000      0x14c DIO.o
+ .debug_frame   0x0000014c       0xe4 ICU.o
+ .debug_frame   0x00000230      0x2a4 LCD.o
+ .debug_frame   0x000004d4       0x34 main.o
+ .debug_frame   0x00000508      0x158 PWM.o
+
+.debug_str      0x00000000      0xf7d
+ *(.debug_str)
+ .debug_str     0x00000000      0x196 f:/embedded/mickroship/microship insallation/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/crtatmega32.o
+ .debug_str     0x00000196      0x3cd DIO.o
+                                0x416 (size before relaxing)
+ .debug_str     0x00000563      0x304 ICU.o
+                                0x49d (size before relaxing)
+ .debug_str     0x00000867      0x3c9 LCD.o
+                                0x784 (size before relaxing)
+ .debug_str     0x00000c30       0xce main.o
+                                0x2b1 (size before relaxing)
+ .debug_str     0x00000cfe      0x27f PWM.o
+                                0x76d (size before relaxing)
+
+.debug_loc      0x00000000     0x26f5
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x85d DIO.o
+ .debug_loc     0x0000085d      0x391 ICU.o
+ .debug_loc     0x00000bee     0x130c LCD.o
+ .debug_loc     0x00001efa       0x65 main.o
+ .debug_loc     0x00001f5f      0x796 PWM.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0x1c0
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0x78 DIO.o
+ .debug_ranges  0x00000078       0x48 ICU.o
+ .debug_ranges  0x000000c0       0xa8 LCD.o
+ .debug_ranges  0x00000168       0x10 main.o
+ .debug_ranges  0x00000178       0x48 PWM.o
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(Interface_Drivers.elf elf32-avr)
+LOAD linker stubs
